@@ -13,12 +13,12 @@ WORKFLOW of our web-app:
 
 1) people come to our application register themselves **link their metamask wallet**.
 
-2) they play our game which is basically a trump card game with Entrepreneurs competing.
+2) they play our game which is basically a memory card game with cards as  NFT's of Entrepreneurs.
 
 3) we will have a leaderboard on our platform and every week to the top 10 players on our site (that to be decided by the frequency they play and win on our site,
 we will do a lucky draw to give one of our exclusive nft to one of the players.
 
-4) we will mint our nft on rarible and transfer it from there only!
+4) we will mint our nft on rarible and transfer it to the lucky winner!!
 
 ***Future endeavours:***
 
@@ -37,4 +37,4 @@ What all we have completed till now !!
 
 
 
-download the zip file of this repository and run the index file.
+download the zip file of this repository and run the index file by creating a local host .
