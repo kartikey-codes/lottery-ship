@@ -4,10 +4,13 @@
     padding: 0;
 } */
 
+body{
+    background-image: url('./imgs/4127298.jpg');
+    object-fit: cover;
+}
 .game {
     height: fit-content;
     width: 200vh;
-    background-color: darkblue;
     display: flex;
     justify-content: space-around;
 }
@@ -32,7 +35,7 @@
 
 .cardDesign {
     /* display: none; */
-    background-color: yellow;
+    background-color: #4470C6;
     width: fit-content;
     height: fit-content;
 }
@@ -107,6 +110,6 @@
   /* Style the back side */
   #flip-card-back {
     background-color: dodgerblue;
-    color: white;
+    color: black;
     transform: rotateY(180deg);
   } 
