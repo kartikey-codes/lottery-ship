@@ -32,3 +32,9 @@ We will also keep an option for players to upgrade their card level by paying so
 What all we have completed till now !!
 1)**created game with Entrepreneurs nft's**
 2)**linked metamask wallet to store nft's**
+
+**Instructions to run the website**
+
+
+
+download the zip file of this repository and run the index file.
