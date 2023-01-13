@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#game {
+    grid-area: game;
+    background-color: #ff0000;
+}
+
+#result {
+    grid-area: result;
+    background-color: #fff700;
+}
+
+#scoreboard {
+    grid-area: score;
+    background-color: #00ff04;
+}
+
+#displayPlayerCards {
+    grid-area: pCards;
+    background-color: #008cff;
+}
+
+#displayComputerCards {
+    grid-area: cCards;
+    background-color: #5602ff;
+
+}
+
+#f{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+        'pCards score cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards game cCards'
+        'pCards result cCards';
+    height: 100vh;
+}
